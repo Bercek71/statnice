@@ -6,3 +6,9 @@ ___
 		- [[Programovací techniky]]
 		- [[Vývoj aplikací]]
 		- [[Reprezentace čísel v počítači]]
+	- [[Softwarové inženýrství]]
+		- [[Informační systém]]
+		- [[Návrhové vzory a praktiky pro vývoj informačních systémů]]
+		- [[UML]]
+		- [[Životní cyklus vývoje software]]
+

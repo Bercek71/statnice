@@ -1,8 +1,8 @@
 ---
 Progress:
-  - In writing
+  - Done writing
 Done: false
-Date edited: 2024-05-14T12:58:00
+Date edited: 2024-05-14T15:39:00
 ---
 ## Obsah
 ___

@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"f15a2014f2814bc4","type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Programování.md","x":-5720,"y":-1320,"width":400,"height":400,"color":"1"},
 		{"id":"32d539dcef50453c","type":"text","text":"  Nepodcenit","x":-5600,"y":-940,"width":160,"height":50,"color":"1"},
-		{"id":"55987a96d8939d59","type":"file","file":"Okruhy.md","x":-4440,"y":-1290,"width":400,"height":400,"color":"3"}
+		{"id":"55987a96d8939d59","type":"file","file":"Okruhy.md","x":-4960,"y":-1090,"width":400,"height":400,"color":"3"},
+		{"id":"f15a2014f2814bc4","type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Programování.md","x":-5720,"y":-1315,"width":400,"height":400,"color":"1"}
 	],
 	"edges":[
 		{"id":"1d47986d03a538f6","fromNode":"32d539dcef50453c","fromSide":"top","toNode":"f15a2014f2814bc4","toSide":"bottom"},

@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Not started
 
-- [ ] Softwarové inženýrství
 - [ ] Databázové systémy
 - [ ] Architektury počítačů
 - [ ] Sítě
@@ -15,6 +14,7 @@ kanban-plugin: basic
 
 ## In writing
 
+- [ ] [[Softwarové inženýrství]]
 
 
 ## Done writing

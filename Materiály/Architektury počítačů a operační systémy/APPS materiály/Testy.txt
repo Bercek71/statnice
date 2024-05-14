@@ -1,0 +1,67 @@
+Olivka 25.1.18
+1. Von Neumann, DMA
+2. Polovodičové paměti,Pameti: Rozdeleni + Nakreslit a popsat Virtualni Pamet
+3. Historie intel x86
+4. Optická média a mechaniky
+5. Cuda
+
+Olivka 25.1.18 14:15
+1 von neumann, obrázok, popis
+2 periférie monilitických počítačov
+3 arm alebo risp popísať, obrázok, môžnosť pridať aj históriu
+4 pevné disky fyzikálne vlastnosti, kolmý pozdĺžny zápis, obrázok
+5 cuda popis, obrázok, C/C++ rozšírenie
+
+17 január2018, 8:37
+APPS Olivka:
+1. Von Neumann + DMA Řadič.
+2. RISC
+3. Intel x86
+4. Optická média, optické mechaniky
+5. E-Ink display
+
+11 január2018, 14:57
+[APPS, Olivka, Po 14:15] 
+1, von Neumann, harvard, současné PC, porovnat je mezi sebou
+2, Popište a nakreslete funkčnost procesoru I7 (i5, i3) (?alebo predchodca=pent. pro?)
+3, popsat a nakreslit arm nebo MIPS, 
+4, popsat a nakreslit pevný disk a způsob zápisu
+5, popsat a nakreslit konstrukci LCD, rozdíl mezi pasivními a aktivními displeji, typy LCD a jejich vlastnosti
+
+[APPS] Dnešní zadání Olivka 9:30
+1)Risc
+2)Historie procesorů Intel x86
+3)Hierarchie pamětí + Dynamické paměti
+4)ARM
+5)Optické disky (čtení/zápis, princip)
+6)CUDA
+
+Olivka 8:00
+1)Von Neumann, srovnání s Harvardskou architekturou
+2)Historie procesorů Intel x86
+3)Hierarchie pamětí + Dynamické paměti
+4)ARM nebo MIPS
+5)Pevné disky (čtení/zápis, princip)
+6)CUDA
+
+olivka 9:30
+1. von neuman, harvard
+2. risc
+3. dělení polovodičových pamětí
+4. arm, mips
+5. hdd
+6. pwm
+
+1. harvard + srovnání s dnešními PC, 
+2. Pentium Pro nebo jeho nástupci, popsat a vysvětlit co je to exekuční jednotka, 
+3. hierarchie pamětí počítače + popsat DRAM
+
+ak by to niekoho zaujmalo tu su cca otázky od Olivku..
+kládol dôraz na to aby tam boli tie obrázky a text im odpovedal
+1. von neman obrázok + popis. Porovnanie s dnešnými pc
+2. Pentium pro obrázok +popis procesoru . podrobne popísať execute unit.
+3. hierarchia pamäti v pc obrázok popis, detailnejšie popísať dynamické pamäte asi aj s obrázkom. 
+4. eink obrázok, popis, ako sa vytvárajú odtiene šedej , výhody nevhodný 
+5 . HDD obrázok, popis, ako sa zspisuju a čítajú data a aký je rozdiel v zvislo a pozdĺžnom zápise. 
+6. organizácia gridu v cude, ako prebieha program, aké softwarove rozšírenie poznas, ako ovplyvňuje rozloženie do blokov a gridu program .. 
+asi chcel ze sko sa k tým vláknam pristupuje 

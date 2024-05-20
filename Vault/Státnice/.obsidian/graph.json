@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:\"A. Předmět Počítačové a informační systémy/Databázové systémy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,

@@ -9,5 +9,6 @@
   "obsidian-minimal-settings",
   "obsidian-git",
   "multi-column-markdown",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-pandoc"
 ]

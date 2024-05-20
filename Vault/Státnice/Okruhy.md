@@ -16,22 +16,22 @@ ___
 
 ### Softwarové inženýrství (SWI, VIS)
 
-- Životní cyklus vývoje software (typické fáze, jejich náplň, základní modely vývoje).
-- UML (typy diagramů, statický náhled na systém, dynamický náhled na systém, mapování na zdrojový kód, využití v rámci vývoje).
-- Informační systém (životní cyklus, návrh a architektura informačního systému).
-- Návrhové vzory a praktiky pro vývoj informačních systémů (vzory GoF, doménová logika, datové zdroje, objektově-relační chování a struktury, doménově specifické jazyky).
+- Životní cyklus vývoje software (typické fáze, jejich náplň, základní modely vývoje). ^2cc71b
+- UML (typy diagramů, statický náhled na systém, dynamický náhled na systém, mapování na zdrojový kód, využití v rámci vývoje). ^14008a
+- Informační systém (životní cyklus, návrh a architektura informačního systému). ^11fe2f
+- Návrhové vzory a praktiky pro vývoj informačních systémů (vzory GoF, doménová logika, datové zdroje, objektově-relační chování a struktury, doménově specifické jazyky). ^43b07f
 
 > [!question] __Příklad otázky__ 
 > *Vysvětlete, v jaké situaci je vhodné použít vzor Composite, použijte UML diagram pro jeho schématické vyjádření a promítněte tento diagram do zdrojového kódu ve vámi zvoleném programovacím jazyce.*
 
 ### Databázové systémy (DS I, DS II)
 
-- Datové modely (relační datový model: definice, normální formy, funkční závislosti; objektově- relační datový model: základní rysy).•
-- Dotazovací jazyky (SQL: jazyk pro definici dat, jazyk pro manipulaci s daty, SELECT – spojení, poddotazy, agregační funkce; procedurální rozšíření SQL: PL/SQL, T/SQL, obecné rysy: uložené procedury, kurzory, triggery).
-- Analýza informačního systému (konceptuální a datový model, stavová analýza, funkční analýza – minispecifikace, návrh formulářů).
-- Transakce (definice, ACID, serializovatelnost transakcí, zotavení, řízení souběhu, úroveň izolace transakcí).
-- Vykonávání dotazů v databázových systémech (fyzický návrh databáze, vykonávání dotazů, logické a fyzické operace).
-- Návrh a implementace datové vrstvy (objektově-relační mapování, DTO, DAO, efektivní implementace datové vrstvy).
+- Datové modely (relační datový model: definice, normální formy, funkční závislosti; objektově- relační datový model: základní rysy).• ^0457d8
+- Dotazovací jazyky (SQL: jazyk pro definici dat, jazyk pro manipulaci s daty, SELECT – spojení, poddotazy, agregační funkce; procedurální rozšíření SQL: PL/SQL, T/SQL, obecné rysy: uložené procedury, kurzory, triggery). ^66df3a
+- Analýza informačního systému (konceptuální a datový model, stavová analýza, funkční analýza – minispecifikace, návrh formulářů). ^666d02
+- Transakce (definice, ACID, serializovatelnost transakcí, zotavení, řízení souběhu, úroveň izolace transakcí). ^99db54
+- Vykonávání dotazů v databázových systémech (fyzický návrh databáze, vykonávání dotazů, logické a fyzické operace). ^a44bb8
+- Návrh a implementace datové vrstvy (objektově-relační mapování, DTO, DAO, efektivní implementace datové vrstvy). ^631b5b
 
 > [!question] __Příklad otázky__ 
 > *Jaký SQL dotaz může v transakci vracet neočekávané výsledky, pokud použijeme úroveň izolace Read Commited? Popište i relaci se kterou pracujete a napište konkrétní dotaz nad touto relací.*

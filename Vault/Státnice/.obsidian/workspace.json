@@ -11,13 +11,36 @@
             "id": "59a57e82e6f325a8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Progress.md"
+                "file": "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "8ee80880b1311437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsah.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aab51dcb35e27fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Progress.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,24 +182,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59a57e82e6f325a8",
+  "active": "1aab51dcb35e27fb",
   "lastOpenFiles": [
-    "Okruhy.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
+    "Print.md",
+    "Progress.md",
+    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
+    "Obsah.md",
+    "Mapa.canvas",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Databázové systémy.md",
+    "ToPrint",
+    "Obsah.pdf",
     "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Informační systém.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.pdf",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Informační systém.pdf",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Vykonávání dotazů v databázových systémech.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Transakce.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Analýza informačního systému.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Dotazovací jazyky.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Datové modely.md",
+    "Okruhy.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Datové typy.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Návrhové vzory a praktiky pro vývoj informačních systémů.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/UML.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Životní cyklus vývoje software.md",
     "A. Předmět Počítačové a informační systémy/Programování/Vývoj aplikací.md",
     "A. Předmět Počítačové a informační systémy/Programování/Reprezentace čísel v počítači.md",
     "A. Předmět Počítačové a informační systémy/Programování/Programovací techniky.md",
     "A. Předmět Počítačové a informační systémy/Programování/Paradigmata programování.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Datové typy.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
-    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
-    "Obsah.md",
-    "Mapa.canvas",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Návrhové vzory a praktiky pro vývoj informačních systémů.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/UML.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Životní cyklus vývoje software.md",
-    "Progress.md",
     "A. Předmět Počítačové a informační systémy/Softwarové inženýrství",
     "A. Předmět Počítačové a informační systémy/Programování",
     "okruhy.pdf",
@@ -188,12 +220,6 @@
     "New folder/New folder.md",
     "New folder/Untitled/Untitled 1.md",
     "New folder/Untitled/Untitled.md",
-    "New folder/Untitled/Untitled 2.md",
-    "New folder/Untitled",
-    "2024-05-14.md",
-    "New folder",
-    "Untitled/Untitled Kanban.md",
-    "Test.md",
-    "Untitled/Untitled database.md"
+    "New folder/Untitled"
   ]
 }

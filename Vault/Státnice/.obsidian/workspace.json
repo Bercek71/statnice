@@ -35,12 +35,48 @@
             "id": "1aab51dcb35e27fb",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Architektury počítačů a operační systémy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5531b9f935bd6c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Architektury počítačů a operační systémy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcff3fc06dcd20c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Předmět Počítačové a informační systémy/Počítačová grafika/Počítačová grafika.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440b172ce45e184c",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -182,44 +218,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1aab51dcb35e27fb",
+  "active": "440b172ce45e184c",
   "lastOpenFiles": [
-    "Print.md",
+    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Geometrické modelování.md",
+    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Počítačová grafika.md",
+    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Standardní zobrazovací řetězec.md",
     "Progress.md",
+    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Metody pro realizaci grafických uživatelských rozhraní.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Architektury počítačů a operační systémy.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Správa paměti.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Meziprocesní komunikace.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Procesy.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/GPU, CUDA.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Risc procesory.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Architektury počítačů.md",
+    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Směrování a přepínání v počítačových sítích.md",
+    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Počítačové sítě a komunikační technologie.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
     "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
     "Obsah.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Teoretická informatika.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku",
+    "B. Předmět Teoretické základy informatiky/B. Předmět Teoretické základy informatiky.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Algoritmy.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy",
     "Mapa.canvas",
+    "B. Předmět Teoretické základy informatiky",
+    "A. Předmět Počítačové a informační systémy/Počítačová grafika",
+    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie",
     "A. Předmět Počítačové a informační systémy/Databázové systémy/Databázové systémy.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Vykonávání dotazů v databázových systémech.md",
+    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Transakce.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
     "ToPrint",
     "Obsah.pdf",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Informační systém.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.pdf",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Informační systém.pdf",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Vykonávání dotazů v databázových systémech.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Transakce.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Analýza informačního systému.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Dotazovací jazyky.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Datové modely.md",
-    "Okruhy.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Datové typy.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Návrhové vzory a praktiky pro vývoj informačních systémů.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/UML.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Životní cyklus vývoje software.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Vývoj aplikací.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Reprezentace čísel v počítači.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Programovací techniky.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Paradigmata programování.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství",
-    "A. Předmět Počítačové a informační systémy/Programování",
-    "okruhy.pdf",
-    "A. Předmět Počítačové a informační systémy",
-    "New folder/New folder.md",
-    "New folder/Untitled/Untitled 1.md",
-    "New folder/Untitled/Untitled.md",
-    "New folder/Untitled"
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.pdf"
   ]
 }

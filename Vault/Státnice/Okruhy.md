@@ -39,12 +39,12 @@ ___
 
 ### Architektury počítačů a operační systémy (APPS, OSY)
 
-- Architektury počítačů (základní architektury počítačů, jejich popis, výhody a nevýhody, princip fungování počítače, způsoby adresování, hierarchické uspořádání pamětí).
-- RISC procesory (základní konstrukční vlastnosti, způsoby urychlování práce procesorů, zřetězené zpracování instrukcí, predikce skoků).
-- GPU, CUDA (důvody využívání GPU, popis technologie CUDA, postup výpočtu, základní pravidla programování, postup výpočtu, práce s pamětí).
-- Procesy (vytváření procesů, implementace procesů v OS, tabulka procesů, stavy procesů, obsluha HW přerušení, multitasking, pseudoparalelismus, plánovací algoritmy).
-- Meziprocesní komunikace (souběh, kritická sekce, vzájemné vyloučení, základní způsoby realizace vzájemného vyloučení, semafor, monitor, fronta zpráv, sdílená paměť).
-- Správa paměti (princip fungování virtuální pamětí, segmentace a její přínosy, správa/evidence volné paměti).
+- Architektury počítačů (základní architektury počítačů, jejich popis, výhody a nevýhody, princip fungování počítače, způsoby adresování, hierarchické uspořádání pamětí). ^fa5554
+- RISC procesory (základní konstrukční vlastnosti, způsoby urychlování práce procesorů, zřetězené zpracování instrukcí, predikce skoků). ^027f95
+- GPU, CUDA (důvody využívání GPU, popis technologie CUDA, postup výpočtu, základní pravidla programování, postup výpočtu, práce s pamětí). ^0b33c9
+- Procesy (vytváření procesů, implementace procesů v OS, tabulka procesů, stavy procesů, obsluha HW přerušení, multitasking, pseudoparalelismus, plánovací algoritmy). ^00091d
+- Meziprocesní komunikace (souběh, kritická sekce, vzájemné vyloučení, základní způsoby realizace vzájemného vyloučení, semafor, monitor, fronta zpráv, sdílená paměť). ^19fd67
+- Správa paměti (princip fungování virtuální pamětí, segmentace a její přínosy, správa/evidence volné paměti). ^eb409f
 
 > [!question] __Příklad otázky__ 
 > *Vysvětlete princip fungování virtuální paměti a k čemu slouží segmentace. Co tyto technologie zlepšují či přináší proti základní koncepci fungování počítače dle von Neumanna?*
@@ -64,9 +64,9 @@ ___
 
 
 ### Počítačová grafika (ZPG, URO)
-- Metody a nástroje pro realizaci grafických uživatelských rozhraní (kognitivní schopnosti člověka, mentální modely, základní pravidla designu, barevné prostory, volba barev a prezentace textu).
-- Standardní zobrazovací řetězec (realizace jednotlivých kroků řetězce, modelovací a zobrazovací transformace, Phongův osvětlovací model, řešení viditelnosti, identifikace těles, stručná charakteristika standardu OpenGL a jazyka GLSL).
-- Geometrické modelování (afinní a projektivní prostory, popis těles a možnosti jejich reprezentace, základní křivky používané v počítačové grafice, jejich vyjádření, vlastnosti a použití, Fergusonova kubika, Bézierova křivka).
+- Metody a nástroje pro realizaci grafických uživatelských rozhraní (kognitivní schopnosti člověka, mentální modely, základní pravidla designu, barevné prostory, volba barev a prezentace textu). ^d05c2c
+- Standardní zobrazovací řetězec (realizace jednotlivých kroků řetězce, modelovací a zobrazovací transformace, Phongův osvětlovací model, řešení viditelnosti, identifikace těles, stručná charakteristika standardu OpenGL a jazyka GLSL). ^fab820
+- Geometrické modelování (afinní a projektivní prostory, popis těles a možnosti jejich reprezentace, základní křivky používané v počítačové grafice, jejich vyjádření, vlastnosti a použití, Fergusonova kubika, Bézierova křivka). ^574e1d
 
 >[!question] __Příklad otázky__  
 >*Popište možnosti reprezentace těles a způsob jejich vykreslení pomocí standardního zobrazovacího řetězce v kontextu grafického rozhraní OpenGL.*

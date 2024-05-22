@@ -27,6 +27,27 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:\"A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"A. Předmět Počítačové a informační systémy/Počítačová grafika\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.4459645517327383,
+  "close": true
 }

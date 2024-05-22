@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Not started
 
-- [ ] Architektury počítačů
-- [ ] Sítě
 - [ ] Počítačová grafika
 
 
 ## In writing
 
+- [ ] Architektury počítačů
+- [ ] Sítě
 
 
 ## Done writing

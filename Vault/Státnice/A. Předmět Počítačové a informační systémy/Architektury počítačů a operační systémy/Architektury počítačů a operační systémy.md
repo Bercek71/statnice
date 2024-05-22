@@ -1,4 +1,3 @@
-
 ## Obsah
 ___
 - [[Architektury počítačů]]
@@ -8,4 +7,6 @@ ___
 - [[Meziprocesní komunikace]]
 - [[Správa paměti]] - Dodělat
 
+## Zadání
+___
 ![[Okruhy#Architektury počítačů a operační systémy (APPS, OSY)]]

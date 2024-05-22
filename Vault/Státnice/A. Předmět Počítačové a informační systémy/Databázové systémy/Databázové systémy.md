@@ -7,4 +7,7 @@ ___
 - [[Vykonávání dotazů v databázových systémech]]
 - [[Návrh a implementace datové vrstvy]]
 
+
+## Zadání
+___
 ![[Okruhy#Databázové systémy (DS I, DS II)]]

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🗺",
       "🤔",
       "💽",
       "🔴",
-      "📋",
-      "🌴"
+      "📋"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Okruhy.md": "🔴",
   "Obsah.md": "📋",
   "A. Předmět Počítačové a informační systémy": "💽",
-  "B. Předmět Teoretické základy informatiky": "🤔"
+  "B. Předmět Teoretické základy informatiky": "🤔",
+  "Mapa.canvas": "🗺"
 }

@@ -4,4 +4,6 @@ ___
 - [[Standardní zobrazovací řetězec]]
 - [[Geometrické modelování]]
 
+## Zadání
+___
 ![[Okruhy#Počítačová grafika (ZPG, URO)]]

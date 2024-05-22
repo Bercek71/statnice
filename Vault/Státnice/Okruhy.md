@@ -52,12 +52,12 @@ ___
 
 ### Počítačové sítě a komunikační technologie (POS, PB)
 
-- Směrování a přepínání v počítačových sítích (topologie LAN sítí; aktivní prvky a jejich funkce – přepínač a jeho funkce, směrovač; směrovací protokoly – základní popis, třídy směrovacích protokolů, hierarchické směrování).
-- Protokolová rodina TCP/IP (TCP/IP model a jeho vztah k referenčnímu modelu ISO‐OSI; síťové protokoly – IPv4 vs. IPv6; protokoly transportní vrstvy a princip fungování spolehlivého přenosového kanálu protokolu TCP).
-- Služby Internetu a jejich protokoly (elektronická pošta; protokol HTTP; DNS – typy záznamů, doménový strom, zóny, zabezpečení DNS; SSH).
-- Základy kryptografie (blokové a proudové šifry včetně jejich režimů; symetrická a asymetrická kryptografie a jejich využití; hashovací funkce; infrastruktura veřejného klíče – základní pilíře, certifikační autorita, certifikát veřejného klíče).
-- Tvorba bezpečných aplikací (obecné principy; nejčastější zranitelnosti, jejich kategorizace a popis; bezpečnost databází a webových aplikací a typické útoky na ně).
-- Bezpečnost počítačových sítí (útoky na infrastrukturu, servery a aplikační protokoly, a jejich detekce; paketové filtry, stavový firewall; virtuální privátní sítě).
+- Směrování a přepínání v počítačových sítích (topologie LAN sítí; aktivní prvky a jejich funkce – přepínač a jeho funkce, směrovač; směrovací protokoly – základní popis, třídy směrovacích protokolů, hierarchické směrování). ^c621e9
+- Protokolová rodina TCP/IP (TCP/IP model a jeho vztah k referenčnímu modelu ISO‐OSI; síťové protokoly – IPv4 vs. IPv6; protokoly transportní vrstvy a princip fungování spolehlivého přenosového kanálu protokolu TCP). ^53b405
+- Služby Internetu a jejich protokoly (elektronická pošta; protokol HTTP; DNS – typy záznamů, doménový strom, zóny, zabezpečení DNS; SSH). ^d4c323
+- Základy kryptografie (blokové a proudové šifry včetně jejich režimů; symetrická a asymetrická kryptografie a jejich využití; hashovací funkce; infrastruktura veřejného klíče – základní pilíře, certifikační autorita, certifikát veřejného klíče). ^c62e63
+- Tvorba bezpečných aplikací (obecné principy; nejčastější zranitelnosti, jejich kategorizace a popis; bezpečnost databází a webových aplikací a typické útoky na ně). ^747c1d
+- Bezpečnost počítačových sítí (útoky na infrastrukturu, servery a aplikační protokoly, a jejich detekce; paketové filtry, stavový firewall; virtuální privátní sítě). ^91ccf4
 
 >[!question] __Příklad otázky__ 
 >*Proč se dnes používá pro komunikaci s webovými servery převážně HTTPS?Jakému typu útoku má bránit, jakou bezpečnostní funkci má primárně zajistit, a jaký význam pro komunikaci se HTTPS servery má certifikační autorita?*

@@ -1,11 +1,14 @@
 {
 	"nodes":[
-		{"id":"32d539dcef50453c","type":"text","text":"  Nepodcenit","x":-5600,"y":-940,"width":160,"height":50,"color":"1"},
-		{"id":"55987a96d8939d59","type":"file","file":"Okruhy.md","x":-4960,"y":-1090,"width":400,"height":400,"color":"3"},
-		{"id":"f15a2014f2814bc4","type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Programování.md","x":-5720,"y":-1315,"width":400,"height":400,"color":"1"}
+		{"id":"70d66862e9826fb0","type":"group","x":-7240,"y":-1760,"width":2160,"height":1840,"color":"1","label":"Programování"},
+		{"id":"f15a2014f2814bc4","type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Programování.md","subpath":"#Zadání","x":-7200,"y":-1720,"width":1760,"height":480},
+		{"id":"a7c67fe7e511ab7b","x":-7200,"y":-1200,"width":400,"height":400,"type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Datové typy.md"},
+		{"id":"34c2c1c3fd694cf1","x":-6730,"y":-1200,"width":400,"height":400,"type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Paradigmata programování.md"},
+		{"id":"bc6a5c335edd921b","x":-6240,"y":-1200,"width":400,"height":400,"type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Vývoj aplikací.md"},
+		{"id":"713f2eec064d2e87","x":-5760,"y":-1200,"width":400,"height":400,"type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Programovací techniky.md"},
+		{"id":"c56004316db7f53a","x":-7200,"y":-680,"width":400,"height":400,"type":"file","file":"A. Předmět Počítačové a informační systémy/Programování/Reprezentace čísel v počítači.md"},
+		{"id":"549dd3fffaa363b2","type":"text","text":"# Progress\n- [ ] [[Datové typy]]\n- [ ] [[Paradigmata programování]]\n- [ ] [[Vývoj aplikací]]\n- [ ] [[Programovací techniky]]\n- [ ] [[Reprezentace čísel v počítači]]","x":-6710,"y":-680,"width":390,"height":280,"color":"1"},
+		{"id":"32d539dcef50453c","type":"text","text":"# Nepodcenit!!","x":-6160,"y":-680,"width":240,"height":80,"color":"1"}
 	],
-	"edges":[
-		{"id":"1d47986d03a538f6","fromNode":"32d539dcef50453c","fromSide":"top","toNode":"f15a2014f2814bc4","toSide":"bottom"},
-		{"id":"e370a6253f197d4d","fromNode":"55987a96d8939d59","fromSide":"left","toNode":"f15a2014f2814bc4","toSide":"right"}
-	]
+	"edges":[]
 }

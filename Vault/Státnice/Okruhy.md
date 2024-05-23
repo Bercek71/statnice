@@ -76,11 +76,11 @@ ___
 
 ### Algoritmy (ALG I, ALG II, ZSU, UTI
 
-- Strategie algoritmického řešení problémů (strategie řešení hrubou silou, úplným prohledáváním, sniž a vyřeš, rozděl a panuj, transformuj a vyřeš, záměna paměťové a časové složitosti, dynamické programování, hladové algoritmy).
-- Složitost algoritmů (asymptotická notace, korektnost algoritmů a její analýza). 
-- Základní datové struktury (pole, seznam, zásobník, fronta, graf, vyhledávací strom, hašovací tabulka, halda).
-- Explorativní analýza dat (data a jejich vlastnosti – numerické, kategoriální a jiné atributy, statistické vlastnosti dat, vztahy mezi atributy). 
-- Metody strojového učení (shlukování, klasifikace, vyhodnocení algoritmů).
+- Strategie algoritmického řešení problémů (strategie řešení hrubou silou, úplným prohledáváním, sniž a vyřeš, rozděl a panuj, transformuj a vyřeš, záměna paměťové a časové složitosti, dynamické programování, hladové algoritmy). ^a289c5
+- Složitost algoritmů (asymptotická notace, korektnost algoritmů a její analýza).  ^3e78ab
+- Základní datové struktury (pole, seznam, zásobník, fronta, graf, vyhledávací strom, hašovací tabulka, halda). ^f2b26e
+- Explorativní analýza dat (data a jejich vlastnosti – numerické, kategoriální a jiné atributy, statistické vlastnosti dat, vztahy mezi atributy).  ^ffe13c
+- Metody strojového učení (shlukování, klasifikace, vyhodnocení algoritmů). ^fc96e8
 
 > [!question] __Příklad otázky__ 
 > *Základní myšlenka strategie rozděl a panuj. Praktická ukázka použití, QuickSort a jeho časová složitost. Srovnání se strategií řešení hrubou silou, BubbleSort.*
@@ -88,12 +88,12 @@ ___
 
 ### Teoretická informatika (ULM, ZDS, UTI, PJP)
 
-- Logika (výroková logika a predikátová logika, syntaxe a sémantika formulí výrokové a predikátové logiky, sémantické a syntaktické dokazování, ekvivalentní úpravy, rezoluční metoda).
-- Booleova algebra (Booleova funkce, minimalizace, vazba na kombinační obvody).
-- Množiny, relace a funkce (operace na množinách, druhy a vlastnosti relací, relace typu, ekvivalence a uspořádání, vlastnosti funkcí, induktivní definice, a důkazy).
-- Teorie formálních jazyků a automatů (formální jazyky, operace na jazycích, formální prostředky používané pro popis jazyků – automaty, gramatiky, regulární výrazy, konečné, deterministické a nedeterministické automaty, bezkontextové gramatiky, zásobníkové automaty, Chomského hierarchie).
-- Vyčíslitelnost a složitost (výpočetní modely – stroje RAM, Turingovy stroje, výpočetní složitost algoritmů, algoritmicky nerozhodnutelné problémy, třídy složitosti, třídy PTIME, NPTIME a PSPACE, převody mezi problémy, NP-úplné a PSPACE-úplné problémy).
-- Překladače (základní funkce a typy překladačů, fáze při překladu, formální prostředky využívané při tvorbě překladače, speciální podtřídy bezkontextových gramatik jako např. LL1 a regulární výrazy, techniky používané při implementaci jako např. rekurzivní sestup, generátory překladačů).
+- Logika (výroková logika a predikátová logika, syntaxe a sémantika formulí výrokové a predikátové logiky, sémantické a syntaktické dokazování, ekvivalentní úpravy, rezoluční metoda). ^7a4280
+- Booleova algebra (Booleova funkce, minimalizace, vazba na kombinační obvody). ^0af8eb
+- Množiny, relace a funkce (operace na množinách, druhy a vlastnosti relací, relace typu, ekvivalence a uspořádání, vlastnosti funkcí, induktivní definice, a důkazy). ^918ba6
+- Teorie formálních jazyků a automatů (formální jazyky, operace na jazycích, formální prostředky používané pro popis jazyků – automaty, gramatiky, regulární výrazy, konečné, deterministické a nedeterministické automaty, bezkontextové gramatiky, zásobníkové automaty, Chomského hierarchie). ^de66ad
+- Vyčíslitelnost a složitost (výpočetní modely – stroje RAM, Turingovy stroje, výpočetní složitost algoritmů, algoritmicky nerozhodnutelné problémy, třídy složitosti, třídy PTIME, NPTIME a PSPACE, převody mezi problémy, NP-úplné a PSPACE-úplné problémy). ^6407da
+- Překladače (základní funkce a typy překladačů, fáze při překladu, formální prostředky využívané při tvorbě překladače, speciální podtřídy bezkontextových gramatik jako např. LL1 a regulární výrazy, techniky používané při implementaci jako např. rekurzivní sestup, generátory překladačů). ^e5c690
 
 >[!question] __Příklad otázky__ 
 >*Bezkontextové gramatiky a jejich souvislost se zásobníkovými automaty. Využití bezkontextových gramatik a zásobníkových automatů při konstrukci překladačů.*

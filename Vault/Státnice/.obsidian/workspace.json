@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
+                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
+                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
+                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md"
+                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md"
               }
             }
           },
@@ -169,6 +169,20 @@
   },
   "active": "978849c48480af1e",
   "lastOpenFiles": [
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Teoretická informatika.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Překladače.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Vyčíslitelnost a složitost.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Teorie formálních jazyků.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Množiny, relace a funkce.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Booleova algebra.md",
+    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Logika.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Algoritmy.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Metody strojového učení.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Explorativní analýza dat.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Základní datové struktury.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Složitost algoritmů.md",
+    "B. Předmět Teoretické základy informatiky/Algoritmy/Strategie algoritmického řešení problémů.md",
+    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
     "B. Předmět Teoretické základy informatiky/B. Předmět Teoretické základy informatiky.md",
     "Mapa.canvas",
     "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Počítačové sítě a komunikační technologie.md",
@@ -179,24 +193,10 @@
     "Print.md",
     "Obsah.md",
     "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Algoritmy.md",
     "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
     "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
     "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Bezpečnost počítačových sítí.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Tvorba bezpečných aplikací.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Základy kryptografie.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Služby internetu a jejich protokoly.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Směrování a přepínání v počítačových sítích.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Protokolová rodina TCP IP.md",
-    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
-    "2024-05-22.md",
-    "Okruhy.md",
-    "Protokolová rodina TCP/IP.md",
     "Protokolová rodina TCP",
-    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Standardní zobrazovací řetězec.md",
-    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Metody pro realizaci grafických uživatelských rozhraní.md",
-    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Geometrické modelování.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Transakce.md",
     "B. Předmět Teoretické základy informatiky/Matematika pro informatiku",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika",
     "B. Předmět Teoretické základy informatiky/Algoritmy",

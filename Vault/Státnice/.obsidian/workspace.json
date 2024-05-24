@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
-                "mode": "source",
+                "file": "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
+                "file": "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
+                "file": "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md"
+                "file": "A. Předmět Počítačové a informační systémy/Databázové systémy/Návrh a implementace datové vrstvy.md"
               }
             }
           },
@@ -169,33 +169,33 @@
   },
   "active": "978849c48480af1e",
   "lastOpenFiles": [
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Dotazovací jazyky.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Analýza informačního systému.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Datové modely.md",
+    "A. Předmět Počítačové a informační systémy/Databázové systémy/Databázové systémy.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Životní cyklus vývoje software.md",
+    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Vývoj aplikací.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Reprezentace čísel v počítači.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Programovací techniky.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
+    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Datové typy.md",
+    "A. Předmět Počítačové a informační systémy/Programování/Paradigmata programování.md",
+    "B. Předmět Teoretické základy informatiky/B. Předmět Teoretické základy informatiky.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Diferenciální a integrální počet funkcí více proměnných.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Diferenciální a integrální počet funkcí jedné proměnné.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Lineární algebra.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Teorie grafů.md",
+    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Diskrétní matematika.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Teoretická informatika.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Překladače.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Vyčíslitelnost a složitost.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Teorie formálních jazyků.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Množiny, relace a funkce.md",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika/Booleova algebra.md",
-    "B. Předmět Teoretické základy informatiky/Teoretická informatika/Logika.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Algoritmy.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Metody strojového učení.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Explorativní analýza dat.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Základní datové struktury.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Složitost algoritmů.md",
-    "B. Předmět Teoretické základy informatiky/Algoritmy/Strategie algoritmického řešení problémů.md",
-    "A. Předmět Počítačové a informační systémy/A. Předmět Počítačové a informační systémy.md",
-    "B. Předmět Teoretické základy informatiky/B. Předmět Teoretické základy informatiky.md",
     "Mapa.canvas",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Počítačové sítě a komunikační technologie.md",
-    "A. Předmět Počítačové a informační systémy/Počítačová grafika/Počítačová grafika.md",
-    "A. Předmět Počítačové a informační systémy/Databázové systémy/Databázové systémy.md",
-    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Architektury počítačů a operační systémy.md",
-    "A. Předmět Počítačové a informační systémy/Architektury počítačů a operační systémy/Správa paměti.md",
-    "Print.md",
-    "Obsah.md",
-    "B. Předmět Teoretické základy informatiky/Matematika pro informatiku/Matematika pro informatiku.md",
-    "A. Předmět Počítačové a informační systémy/Softwarové inženýrství/Softwarové inženýrství.md",
-    "A. Předmět Počítačové a informační systémy/Programování/Programování.md",
-    "A. Předmět Počítačové a informační systémy/Počítačové sítě a komunikační technologie/Bezpečnost počítačových sítí.md",
     "Protokolová rodina TCP",
     "B. Předmět Teoretické základy informatiky/Matematika pro informatiku",
     "B. Předmět Teoretické základy informatiky/Teoretická informatika",

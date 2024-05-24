@@ -101,11 +101,11 @@ ___
 
 ### Matematika pro informatiku (MA I, MA II, LA, DIM)
 
-- Diskrétní matematika (posloupnosti, rekurentní rovnice, kombinatorické výběry, diskrétní pravděpodobnost, řešení kongruencí).
-- Teorie grafů (grafy, vzdálenost v grafu, míry souvislosti, stromy a kostry, barvení grafů a jejich aplikace, toky v sítích).•
-- Lineární algebra (matice a maticové operace, inverzní matice, úpravy a řešení soustav lineárních rovnic, vektorové prostory a báze vektorových prostorů, lineární zobrazení, spektrální teorie).
-- Diferenciální a integrální počet funkcí jedné proměnné (posloupnosti, limita a spojitost, derivace, extrémy, neurčité a určité integrály).
-- Diferenciální a integrální počet funkcí více proměnných (parciální derivace, gradient, extrémy, dvojné a trojné integrály).
+- Diskrétní matematika (posloupnosti, rekurentní rovnice, kombinatorické výběry, diskrétní pravděpodobnost, řešení kongruencí). ^b093cf
+- Teorie grafů (grafy, vzdálenost v grafu, míry souvislosti, stromy a kostry, barvení grafů a jejich aplikace, toky v sítích).• ^9ec214
+- Lineární algebra (matice a maticové operace, inverzní matice, úpravy a řešení soustav lineárních rovnic, vektorové prostory a báze vektorových prostorů, lineární zobrazení, spektrální teorie). ^713bea
+- Diferenciální a integrální počet funkcí jedné proměnné (posloupnosti, limita a spojitost, derivace, extrémy, neurčité a určité integrály). ^64a27d
+- Diferenciální a integrální počet funkcí více proměnných (parciální derivace, gradient, extrémy, dvojné a trojné integrály). ^106d26
 
 >[!question] __Příklad otázky__ 
 >*Jako analytik máte navrhnout optimální přiřazení úkolů jednotlivým pracovním týmům. Jakým grafem budete problém modelovat? Jaké aspekty problému charakterizuje hrana, barvení hran, stupeň vrcholu? Jak při řešení využijete toky v sítích?*
